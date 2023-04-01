@@ -16,7 +16,7 @@ It is an Object Detection Algorithm used to identify faces in an image or a real
   
 </details>
 
-## Second: Camera Motion Detector
+# Second: Camera Motion Detector
  ## Main Idea:
  - using OpenCV, the script acceses (in this case the laptop's) camera and plot rectangles over objects in motion. [^1]
  BONUS: the tracked movements are then stored in a csv and, using `pandas` and `bokeh` libraries, are plotted on a graph [^2]
