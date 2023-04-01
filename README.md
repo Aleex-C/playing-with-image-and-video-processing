@@ -31,4 +31,4 @@ It is an Object Detection Algorithm used to identify faces in an image or a real
  
  
  [^1]: For the script to properly work, the first "captured" frame should be the "background" as it will compare the next frames.
- [^2]: A real-case example would be tracking wild animals in Reservation Parks (seeing a fast-forwarded month of wildlife tracking in the Retezat National Park actually inspired me to proceed with this fun little project)
+ [^2]: A real-case example would be tracking wild animals in Reservation Parks (seeing a fast-forwarded month of wildlife tracking in the Retezat National Park actually inspired me to proceed with this fun little project - helpful here was Ardit Sulce's Mega Python Course)
